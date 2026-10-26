@@ -1,0 +1,96 @@
+{
+  "question": "LoRAとは何ですか？",
+  "conversation_history": false,
+  "temperature": "not explicitly set",
+  "source_sha256": {
+    "app/ask.py": "bf918569b3169d90b6db686aa37ecc5ada26a5898fdece702e1e905e4c4e383d",
+    "app/config.py": "1d589149a7421f2fb75c9dec3f49bf1cb9f1640d82104a9511ce91edc4c4cdaa",
+    "lectures/01/problem.md": "d720e42ec48df78c54a7fdc082c48435b224c659a59207a89f52335023138b04"
+  },
+  "records": [
+    {
+      "model": "gemini-3.5-flash-lite",
+      "repeat": 1,
+      "started_utc": "2026-10-26T07:08:10.987185+00:00",
+      "elapsed_seconds": 3.463,
+      "returncode": 0,
+      "input_tokens": 7,
+      "output_tokens": 577,
+      "output_file": "gemini-3.5-flash-lite_1.txt",
+      "stderr_file": "gemini-3.5-flash-lite_1.stderr.txt",
+      "output_sha256": "447439ad1d3229c8ab32a89fc5feacb702257620499e390f103b9968bbf9a30d"
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "repeat": 2,
+      "started_utc": "2026-10-26T07:08:29.450754+00:00",
+      "elapsed_seconds": 6.23,
+      "returncode": 0,
+      "input_tokens": 7,
+      "output_tokens": 622,
+      "output_file": "gemini-3.5-flash-lite_2.txt",
+      "stderr_file": "gemini-3.5-flash-lite_2.stderr.txt",
+      "output_sha256": "42038fe5a3088fe56ac00da18f0e70777e3c935fa6992dd930e53cdc8e41b97c"
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "repeat": 3,
+      "started_utc": "2026-10-26T07:08:50.682024+00:00",
+      "elapsed_seconds": 5.708,
+      "returncode": 0,
+      "input_tokens": 7,
+      "output_tokens": 646,
+      "output_file": "gemini-3.5-flash-lite_3.txt",
+      "stderr_file": "gemini-3.5-flash-lite_3.stderr.txt",
+      "output_sha256": "a0c7fa321f9dfebbf13fa3eee8d0dc8d37554c7dc6df540f5a9817a36b4722ae"
+    },
+    {
+      "model": "gemini-3.8-flash",
+      "repeat": 1,
+      "started_utc": "2026-10-26T07:09:11.391002+00:00",
+      "elapsed_seconds": 180.097,
+      "returncode": 124,
+      "input_tokens": null,
+      "output_tokens": null,
+      "output_file": "gemini-3.8-flash_1.txt",
+      "stderr_file": "gemini-3.8-flash_1.stderr.txt",
+      "output_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "model": "gemini-3.5-flash",
+      "repeat": 1,
+      "started_utc": "2026-10-26T07:14:06.783712+00:00",
+      "elapsed_seconds": 14.283,
+      "returncode": 0,
+      "input_tokens": 7,
+      "output_tokens": 720,
+      "output_file": "gemini-3.5-flash_1.txt",
+      "stderr_file": "gemini-3.5-flash_1.stderr.txt",
+      "output_sha256": "bed56e6539d99ebc5d6d824e5bc2f1a0d102a8025d8bd627966c3d914f97f56f"
+    },
+    {
+      "model": "gemini-3.5-flash",
+      "repeat": 2,
+      "started_utc": "2026-10-26T07:14:36.067460+00:00",
+      "elapsed_seconds": 12.267,
+      "returncode": 0,
+      "input_tokens": 7,
+      "output_tokens": 673,
+      "output_file": "gemini-3.5-flash_2.txt",
+      "stderr_file": "gemini-3.5-flash_2.stderr.txt",
+      "output_sha256": "4c347dffebe5ee29e113e07bf6b7cb8e817e85c4305e373387d2ab2dd6422ea9"
+    },
+    {
+      "model": "gemini-3.5-flash",
+      "repeat": 3,
+      "started_utc": "2026-10-26T07:15:03.334684+00:00",
+      "elapsed_seconds": 14.507,
+      "returncode": 0,
+      "input_tokens": 7,
+      "output_tokens": 665,
+      "output_file": "gemini-3.5-flash_3.txt",
+      "stderr_file": "gemini-3.5-flash_3.stderr.txt",
+      "output_sha256": "defd5181402c6dc7e0f93d0ac8a4fd173a253ec0c032b29a0cee3b329b2438d3"
+    }
+  ]
+}
